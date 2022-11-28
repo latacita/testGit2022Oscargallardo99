@@ -10,3 +10,11 @@
  (23)	commit -m "Paso 23"
  (24)	checkout master
  (25)					Se realizaría mediante fast-forward.
+ (26)	add bitacora.txt
+ (26)	commit -m "Paso 26"
+ (27)	tag "RespuestaPreguntaFusion"
+ (28)	push			Ocurre un error ya que es necesario hacer
+					un pull de la rama debido a que contiene 
+					una imagen nueva.
+ (28)	pull
+ (28)	push
