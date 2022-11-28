@@ -9,3 +9,5 @@
  (03)   branch Historia000
  (04)	branch Historia001
  (05)	checout Historia000
+ (11)	stash
+ (11)	checkout Historia000
